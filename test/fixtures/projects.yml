@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  amount_of_people: 1
+  project_name: MyString
+  project_type: MyString
+
+two:
+  amount_of_people: 1
+  project_name: MyString
+  project_type: MyString
